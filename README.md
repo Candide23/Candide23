@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [HealthTrack Web App](https://github.com/Candide23/HealthTrack)
 
-- 🌱 I’m currently deep learning **SpringBoot_REST_API**
+- 🌱 I’m currently deep learning **Mock Integration Test**
 
 - 👨‍💻 All of my projects are available at [http://portfoliocandide.s3-website.us-east-2.amazonaws.com/](http://mbk-portfolio.s3-website.us-east-2.amazonaws.com/)
 
